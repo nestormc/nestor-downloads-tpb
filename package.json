@@ -1,0 +1,15 @@
+{
+  "name": "nestor-downloads-tpb",
+  "version": "0.0.1",
+  "description": "The Pirate Bay search plugin for nestor",
+  "main": "tpb.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nestormc/nestor-downloads-tpb.git"
+  },
+  "author": "Nicolas Joyard <joyard.nicolas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "*"
+  }
+}
